@@ -42,5 +42,8 @@
 <img width="200" alt="![Simulator Screen Shot - iPhone 12 Pro - 2021-07-23 at 13 09 46]" src="https://user-images.githubusercontent.com/60861003/126736640-4aaf4c7a-0b1a-4ec5-97de-2972209d175b.png">
 
 
+### README.md는 main branch에,
+### 소스코드는 master branch에 있습니다.
+### 테스트는 맥북에 아이폰은 연결해서 실행하시면 됩니다.
 
 
